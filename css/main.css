@@ -1,3 +1,7 @@
+html {
+  font-family: Georgia serif;
+}
+
 h1 {
   font-family: Georgia serif;
   color: #fff;
@@ -9,8 +13,8 @@ h1 {
 }
 
 .borders {
-  border-top: 2px solid rgb(28, 14, 0);
-  border-bottom: 2px solid rgb(28, 14, 0);
+  border-top: 2px solid rgba(28, 14, 0, .5);
+  border-bottom: 2px solid rgba(28, 14, 0, .5);
 }
 
 a {
@@ -22,18 +26,13 @@ body {
   background-color: #fff;
 }
 
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 60em) {
 
   html {
     background-color: #bea586;
     background-size: 48px;
     background-image: url("../images/sloth-bg.svg");
-    background-position: ;
     background-repeat: repeat;
-  }
-
-
-
   }
 
 }
