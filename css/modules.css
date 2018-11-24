@@ -93,11 +93,11 @@ img {
 }
 
 .embed-3by2, .embed--3by2 {
-  padding-top: 65%; /* Classic 35 mm film & most digital photos, landscape */
+  padding-top: 65.9%; /* Classic 35 mm film & most digital photos, landscape */
 }
 
 .embed-item, .embed__item {
-  min-height: 100%;
+  min-height: 100.5%;
   left: 0;
   position: absolute;
   top: 0;
